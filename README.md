@@ -2,7 +2,7 @@
 
 ## 简介
 
-这个插件是在 “[禅道开源版LDAP插件](https://github.com/TigerLau1985/ZenTao_LDAP)” 上基础进行的修正，使其可以在 禅道开源版 12.5 上正常运行
+这个插件是在 “[shynome/zentao-ldap](https://github.com/shynome/zentao-ldap)” 上基础进行的修正，使其可以在 禅道开源版 12.5 上正常运行
 
 ## 配置示例
 
